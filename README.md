@@ -1,2 +1,2 @@
-# PaladinHammer
-PaladinHammer, a mod for Terraria Using tModLoader
+# DERPHAMMERS
+DERPHAMMERS, a mod for Terraria Using tModLoader
